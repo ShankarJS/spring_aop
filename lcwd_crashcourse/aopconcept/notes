@@ -1,0 +1,4 @@
+1. Write joinpoint
+2. Write aspect, advice and pointcut
+3. Make config in config.xml
+4. To match arguments use .. in method name in pointcut
